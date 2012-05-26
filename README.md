@@ -8,7 +8,7 @@ Usage
 
 It's rather simple to use TNSwipeToClearTextField.
 
-Swipe left (<-) on the Text Field, editing or not, and the contents will be removed. If no changes have been made after a clear the text a swipe right (->)
+Swipe left (<-) on the Text Field, editing or not, and the contents will be removed. If no changes have been made after a clear the text a swipe right (->) and the text will be put back.
 
 Notes To Reader
 ===============
